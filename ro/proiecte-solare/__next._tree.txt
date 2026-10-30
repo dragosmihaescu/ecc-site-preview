@@ -1,0 +1,10 @@
+:HL["/ecc-site-preview/_next/static/chunks/38tlsjg5ea-hm.css","style"]
+:HL["/ecc-site-preview/_next/static/media/1ab3e5abcf77747f-s.p.1d9rlgtqyj_-l.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ecc-site-preview/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ecc-site-preview/_next/static/media/edb99fec956915f8-s.p.32sris142tqlb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ecc-site-preview/_next/static/media/fbb7028efdf70529-s.p.1_0gbi-gsbqmd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ecc-site-preview/images/logo.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"oc","k":"proiecte-solare","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":{"n":"lang","t":"d","k":"ro","s":[]},"h":196720,"c":"$Q2"}]]
+0:{"b":"zifCmM-6OhVgBLwKtKKM7","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
